@@ -1,0 +1,29 @@
+How do I reset my password?
+To reset your password, go to Settings > Account > Reset Password. You will receive an email with a reset link valid for 24 hours.
+
+How do I export my data?
+You can export your data by going to Settings > Data > Export. Choose CSV or JSON format. The export will be emailed to you within 1 hour.
+
+App keeps crashing on startup
+Try these steps: 1) Clear the app cache in Settings > Storage. 2) Update to the latest version. 3) Reinstall the app. If the issue persists, contact support.
+
+How do I cancel my subscription?
+Go to Settings > Billing > Cancel Subscription. Your access continues until the end of the billing period. No refunds for partial months.
+
+What payment methods do you accept?
+We accept Visa, Mastercard, American Express, PayPal, and bank transfers for annual plans.
+
+How long do refunds take?
+Refunds are processed within 5-10 business days. The time depends on your payment method and bank.
+
+What are your business hours?
+Our support team is available Monday to Friday, 9 AM to 6 PM EST. Premium customers have 24/7 access.
+
+How do I upgrade my plan?
+Go to Settings > Billing > Change Plan. Select your new plan. The price difference is charged immediately. Downgrades take effect at the next billing cycle.
+
+Account locked after too many attempts
+Your account is temporarily locked for 30 minutes after 5 failed login attempts. You can use the "Forgot Password" option to reset immediately.
+
+How do I contact support?
+You can reach us via email at support@company.com, live chat on our website, or call 1-800-SUPPORT during business hours.
